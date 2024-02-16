@@ -1,20 +1,20 @@
 Provide-Revenue-Insights-in-Hospitality-Domain
+
 The project is based on providing insights to the revenue team in the hospitality domain
 
 About Challenge:
 AtliQ Grands owns multiple five-star hotels across India. 
 They have been in the hospitality industry for the past 20 years. 
-Due to strategic moves from other competitors and ineffective decision-making in management,
-AtliQ Grands is losing its market share and revenue in the luxury/business hotels category. 
-As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. 
-However, they do not have an in-house data analytics team to provide them with these insights.
+Atliq Grands noticed a loss in their market share and revenue over a few months. 
+To understand the cause of this loss, they needed a way to analyze this.
 
-Their revenue management team had hired a 3rd party service provider to provide them with insights from their historical data.
 
 
 Task:
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
+I created a dashboard in Power BI using three months of data.
+With the created dashboard, the Revenue team of Atliq Grands were able to gain insights into their revenue trend. 
+This could help regain their revenue and market share by 20% next month.
 You can download all relevant documents from the download section.
 
 Create the metrics according to the metric list.
@@ -27,3 +27,5 @@ Created measures and added custom columns
 Used sync slicers to connect slicers with all the pages
 chose specific themes for the dashboard for better visualization
 find insights after the EDA process
+![Screenshot (53)](https://github.com/kan2021/project-on-Hospitality-Domain/assets/141227956/bc86866a-fd51-42a2-a90c-bfdb709b6dbe)
+
